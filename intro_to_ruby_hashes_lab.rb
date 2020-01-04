@@ -42,12 +42,10 @@ def monopoly_with_third_tier
 	      :color => "red"
 	      :speed => "210"
 	    },
-	    :airplane => {
 	      "Havo yullari" => {
 	        :color => "oq",
 	        :speed => '909'
 	      } ,
-	      :Energy => {
 	        "Neftigaz" => {
 	          :color => "kok",
 	          :speed => "011"
