@@ -6,7 +6,14 @@ def base_hash
 	    "Malibu" => {
 	      :color => "red"
 	      :speed => "210"
-	    } 
+	    },
+	    :airplane => {
+	      "Havo yullari" => {
+	        :color => "oq"
+	        :speed => '909'
+	      }
+	    }
+	    
 	  }
 	}
 end
