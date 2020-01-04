@@ -9,7 +9,7 @@ def base_hash
 	    },
 	    :airplane => {
 	      "Havo yullari" => {
-	        :color => "oq"
+	        :color => "oq",
 	        :speed => '909'
 	      }
 	    }
