@@ -50,8 +50,8 @@ def monopoly_with_third_tier
 	          :color => "kok",
 	          :speed => "011"
 	      }
-	      
-	}
+	  }
+	  } 
 end
 
 def monopoly_with_fourth_tier
