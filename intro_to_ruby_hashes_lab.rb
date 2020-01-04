@@ -12,9 +12,6 @@ def base_hash
 	        :color => "oq",
 	        :speed => '909'
 	      }
-	    }
-	    
-	  }
 	}
 end
 
