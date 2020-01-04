@@ -70,13 +70,12 @@ def monopoly_with_fourth_tier
 	        :color => "oq",
 	        :speed => '909'
 	        } 
-	      },
+	      ,
 	        "Neftigaz" => {
 	          :color => "kok",
 	          :speed => "011"
 	        }
-	      }, 
-	        :artel => {
+	      , 
 	          "Mir" => {
 	        :color => "Joha",
 	        :speed => "300"
